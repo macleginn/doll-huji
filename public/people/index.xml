@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Dynamics of Language Lab</title>
-    <link>http://eurasianphonology.info/static/doll/people/</link>
+    <link>http://127.0.0.1:8000/people/</link>
     <description>Recent content in People on Dynamics of Language Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Feb 2018 22:22:14 +0200</lastBuildDate>
     
-	<atom:link href="http://eurasianphonology.info/static/doll/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:8000/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shiratal</title>
-      <link>http://eurasianphonology.info/static/doll/people/phd/shiratal/</link>
+      <link>http://127.0.0.1:8000/people/phd/shiratal/</link>
       <pubDate>Thu, 22 Feb 2018 01:41:54 +0200</pubDate>
       
-      <guid>http://eurasianphonology.info/static/doll/people/phd/shiratal/</guid>
+      <guid>http://127.0.0.1:8000/people/phd/shiratal/</guid>
       <description>Shira has a B.A. degree in Cognitive Science and Philosophy and a M.A. degree in Cognitive Science, both from the Hebrew University of Jerusalem. She is interested in language acquisition and language change. Her PhD research is focused on the ways by which languages are shaped by learning and communication constraints. Using psycholinguistic experiments and corpus studies, she aims to tease apart the influence of different cognitive pressures on the linguistic input.</description>
     </item>
     
     <item>
       <title>Head of the Lab</title>
-      <link>http://eurasianphonology.info/static/doll/people/pi/</link>
+      <link>http://127.0.0.1:8000/people/pi/</link>
       <pubDate>Thu, 22 Feb 2018 01:27:03 +0200</pubDate>
       
-      <guid>http://eurasianphonology.info/static/doll/people/pi/</guid>
+      <guid>http://127.0.0.1:8000/people/pi/</guid>
       <description>I am an assistant professor in the Department of Linguistics and the School of Language Sciences at the Hebrew University of Jerusalem since 2012. In 2013, I was appointed a member of the interdisciplinary Language, Logic and Cognition Center. Before this, I was a postdoctoral researcher in the Ramses Project (and later a Visiting Professor) at the University of Liège, a Kreitman Fellow at Ben Gurion University of the Negev, and spent 2010-2012 at the Martin Buber Society of Fellows in Jerusalem.</description>
     </item>
     

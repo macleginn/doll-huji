@@ -1,4 +1,5 @@
-baseURL = "http://eurasianphonology.info/static/doll/"
+# baseURL = "http://eurasianphonology.info/static/doll/"
+baseURL = "http://127.0.0.1:8000/"
 languageCode = "en-us"
 title = "Dynamics of Language Lab"
 author = "Dmitry Nikolaev"

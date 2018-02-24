@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/projects/tab/</loc>
+    <loc>http://127.0.0.1:8000/projects/tab/</loc>
     <lastmod>2018-02-22T14:13:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/projects/kupid/</loc>
+    <loc>http://127.0.0.1:8000/projects/kupid/</loc>
     <lastmod>2018-02-22T14:13:41+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/projects/</loc>
+    <loc>http://127.0.0.1:8000/projects/</loc>
     <lastmod>2018-02-22T14:04:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/people/phd/shiratal/</loc>
+    <loc>http://127.0.0.1:8000/people/phd/shiratal/</loc>
     <lastmod>2018-02-22T01:41:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/people/pi/</loc>
+    <loc>http://127.0.0.1:8000/people/pi/</loc>
     <lastmod>2018-02-22T01:27:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/contactinfo/</loc>
+    <loc>http://127.0.0.1:8000/contactinfo/</loc>
     <lastmod>2018-02-22T01:11:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/currentevents/</loc>
+    <loc>http://127.0.0.1:8000/currentevents/</loc>
     <lastmod>2018-02-22T01:11:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/eventsschedule/</loc>
+    <loc>http://127.0.0.1:8000/eventsschedule/</loc>
     <lastmod>2018-02-22T01:11:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/publications/</loc>
+    <loc>http://127.0.0.1:8000/publications/</loc>
     <lastmod>2018-02-22T01:09:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/people/</loc>
+    <loc>http://127.0.0.1:8000/people/</loc>
     <lastmod>2018-02-21T22:22:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/people/postdocs/</loc>
+    <loc>http://127.0.0.1:8000/people/postdocs/</loc>
     <lastmod>2018-02-21T22:19:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/people/postdocs/dmitrynikolaev/</loc>
+    <loc>http://127.0.0.1:8000/people/postdocs/dmitrynikolaev/</loc>
     <lastmod>2018-02-21T22:06:41+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/</loc>
+    <loc>http://127.0.0.1:8000/</loc>
     <lastmod>2018-02-21T22:03:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/categories/</loc>
+    <loc>http://127.0.0.1:8000/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eurasianphonology.info/static/doll/tags/</loc>
+    <loc>http://127.0.0.1:8000/tags/</loc>
     <priority>0</priority>
   </url>
   

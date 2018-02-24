@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postdocs on Dynamics of Language Lab</title>
-    <link>http://eurasianphonology.info/static/doll/people/postdocs/</link>
+    <link>http://127.0.0.1:8000/people/postdocs/</link>
     <description>Recent content in Postdocs on Dynamics of Language Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Feb 2018 22:19:04 +0200</lastBuildDate>
     
-	<atom:link href="http://eurasianphonology.info/static/doll/people/postdocs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:8000/people/postdocs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dmitry Nikolaev</title>
-      <link>http://eurasianphonology.info/static/doll/people/postdocs/dmitrynikolaev/</link>
+      <link>http://127.0.0.1:8000/people/postdocs/dmitrynikolaev/</link>
       <pubDate>Wed, 21 Feb 2018 22:06:41 +0200</pubDate>
       
-      <guid>http://eurasianphonology.info/static/doll/people/postdocs/dmitrynikolaev/</guid>
-      <description>A title Hi, my name is Dmitry.</description>
+      <guid>http://127.0.0.1:8000/people/postdocs/dmitrynikolaev/</guid>
+      <description>Dmitry obtained his combined BA+MA and PhD degrees in French and Celtic studies at the Russian State University for the Humanities in Moscow. He worked on early Irish literature, Old Irish grammar, and phonology of Munster Irish before switching to phonological typology.
+Dmitry is core creator and maintainer of the Database of Eursian Phonological Inventories. Other research tools developed by him include online formant-plot maker, formant-based vowel classifier, a tool for comparing spatial distributions of mythological motifs, and a script for extracting Parry-Loridan formulas from poetic texts.</description>
     </item>
     
   </channel>
