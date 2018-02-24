@@ -5,7 +5,8 @@ draft: false
 author: "Dmitry Nikolaev"
 ---
 
-![Prof. Eitan Grossman](/images/eitan.jpg)
+![Prof. Eitan Grossman](/static/doll/public/images/eitan.jpg)
+<!-- ![Prof. Eitan Grossman](/images/eitan.jpg) -->
 
 I am an assistant professor in the Department of Linguistics and the School of Language Sciences at the Hebrew University of Jerusalem since 2012. In 2013, I was appointed a member of the interdisciplinary Language, Logic and Cognition Center. Before this, I was a postdoctoral researcher in the Ramses Project (and later a Visiting Professor) at the University of Liège, a Kreitman Fellow at Ben Gurion University of the Negev, and spent 2010-2012 at the Martin Buber Society of Fellows in Jerusalem. I also spent some time in 2011 as a Senior Research Fellow of the TOPOI project at Humboldt University in Berlin.
 
