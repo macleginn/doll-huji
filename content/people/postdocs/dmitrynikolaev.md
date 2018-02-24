@@ -17,4 +17,4 @@ Recent publications:
 
 - Nikolaev, Dmitry. 2018. The Database of Eurasian Phonological Inventories: a research tool for distributional phonological typology. Linguistics Vanguard. Forthcoming.
 - Nikolaev, Dmitry. 2018. A review of Hickey, Raymond (ed.). 2017. The Cambridge handbook of areal linguistics. Cambridge University Press. Voprosy yazykoznaniya. Forthcoming.
-- Nikolaev, Dmitry and Anton Kukhto. 2018. A review of Gordon, Matthew. 2016. Phonological typology. Oxford University Press. Voprosy yazykoznaniya. Forthcoming.
+- Nikolaev, Dmitry and Anton Kukhto. 2018. A review of Gordon, Matthew. 2016. Phonological typology \[In Russian\]. Oxford University Press. Voprosy yazykoznaniya. Forthcoming.
