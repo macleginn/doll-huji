@@ -20,3 +20,5 @@ draft: true
 - [Shira Tal](phd/shiratal/)
 
 #### MA and BA students
+
+- [Omri Mayraz](mada/omrimayraz/)
