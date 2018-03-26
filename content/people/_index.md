@@ -21,4 +21,4 @@ draft: true
 
 #### MA and BA students
 
-- [Omri Mayraz](mada/omrimayraz/)
+- [Omri Mayraz](maba/omrimayraz/)
