@@ -16,6 +16,7 @@ draft: true
 
 #### PhD students
 - Noa Goldblatt
+- [Maya Inbar](phd/mayainbar/)
 - [Shira Tal](phd/shiratal/)
 
 #### MA and BA students
