@@ -5,4 +5,4 @@ draft: false
 author: "Dmitry Nikolaev"
 ---
 
-Please, don’t try to contact us.
+Please, do try to contact us.
